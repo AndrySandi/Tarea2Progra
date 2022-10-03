@@ -1,0 +1,8 @@
+C:\Users\andry\source\repos\Tarea2\Tarea2\bin\Debug\Tarea2.exe.config
+C:\Users\andry\source\repos\Tarea2\Tarea2\bin\Debug\Tarea2.exe
+C:\Users\andry\source\repos\Tarea2\Tarea2\bin\Debug\Tarea2.pdb
+C:\Users\andry\source\repos\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.AssemblyReference.cache
+C:\Users\andry\source\repos\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.SuggestedBindingRedirects.cache
+C:\Users\andry\source\repos\Tarea2\Tarea2\obj\Debug\Tarea2.csproj.CoreCompileInputs.cache
+C:\Users\andry\source\repos\Tarea2\Tarea2\obj\Debug\Tarea2.exe
+C:\Users\andry\source\repos\Tarea2\Tarea2\obj\Debug\Tarea2.pdb
